@@ -1,27 +1,3 @@
-# Create Your Custom NFT Collection Dashboard in Minutes
-This code template is designed to get your own customized NFT Collection Dashboard up and running **in just minutes!**.
-
-In the `src/config.js`, simply set your:
-- NFT collection contract address
-- Blockchain `chain_id` where the contract address is deployed
-- Dashboard title and banner
-
-That's it!
-
-![BYAC Dashboard](./public/byac_dashboard.png)
-
-
-## Live Demo
-1. [Live on GitHub pages](https://covalenthq.github.io/nft-dashboard-template/)
-
-2. [Live on Replit](https://replit.com/@Covalent-Templates/NFT-Collection-Dashboard-Template?v=1)
-
-The live demo displays:
-* A customizable NFT collection dashboard page with a summary, a floor price graph and a preview of the first 5 NFTs in the collection 
-* Ability to see where your specific collection ranks in the global view of all NFT collections on a specific blockchain
-* Ability to select a specific NFT in your collection and see its metadata
-
-&nbsp;
 ## Fork and Customize
 
 ### GitHub Pages
